@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.configPath": ".prettierrc.js",
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": false,
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "terminal.integrated.fontSize": 11,
+  "terminal.integrated.fontFamily": "Source Code Pro",
+  "debug.console.fontSize": 10,
+  "editor.fontFamily": "Source Code Pro",
+  "editor.formatOnType": true,
+  "editor.fontSize": 11
+}

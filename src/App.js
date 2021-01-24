@@ -1,12 +1,12 @@
-import './App.css';
 import dummyItems from './data/dummy-items';
-import List from './components/list';
+import { List } from './components/List';
+import { Container } from '@material-ui/core';
 
 function App() {
   return (
-    <div className="App">
+    <Container maxWidth="sm">
       <List items={dummyItems} />
-    </div>
+    </Container>
   );
 }
 
